@@ -1,2 +1,5 @@
 ﻿  Task.cpp
+C:\Users\User\source\repos\Task\Task\Task.cpp(28,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Task\Task\Task.cpp(72,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Task\Task\Task.cpp(76,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Task.vcxproj -> C:\Users\User\source\repos\Task\Debug\Task.exe
